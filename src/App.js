@@ -11,7 +11,7 @@ import Recipe from "./pages/Recipe";
 
 function App() {
     return (
-        <Router>
+        <Router basename='/react-magazine'>
             <Header/>
             <main className="content container">
                 <Routes>
