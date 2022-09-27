@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-magazine/static/css/main.d8e1d1c5.css",
+    "main.js": "/react-magazine/static/js/main.cd303282.js",
+    "index.html": "/react-magazine/index.html",
+    "main.d8e1d1c5.css.map": "/react-magazine/static/css/main.d8e1d1c5.css.map",
+    "main.cd303282.js.map": "/react-magazine/static/js/main.cd303282.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8e1d1c5.css",
+    "static/js/main.cd303282.js"
+  ]
+}
